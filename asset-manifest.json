@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.76933244.css",
-  "main.css.map": "static/css/main.76933244.css.map",
-  "main.js": "static/js/main.7db13416.js",
-  "main.js.map": "static/js/main.7db13416.js.map",
+  "main.css": "static/css/main.0895a94d.css",
+  "main.css.map": "static/css/main.0895a94d.css.map",
+  "main.js": "static/js/main.fef6f79b.js",
+  "main.js.map": "static/js/main.fef6f79b.js.map",
   "static\\media\\about.png": "static/media/about.2f6e08df.png",
   "static\\media\\logo.png": "static/media/logo.7888dc1f.png",
   "static\\media\\mecirc.png": "static/media/mecirc.99856bb7.png",
@@ -11,5 +11,6 @@
   "static\\media\\slick.svg": "static/media/slick.f97e3bbf.svg",
   "static\\media\\slick.ttf": "static/media/slick.d41f55a7.ttf",
   "static\\media\\slick.woff": "static/media/slick.b7c9e1e4.woff",
-  "static\\media\\steves.png": "static/media/steves.e46ceab6.png"
+  "static\\media\\steves.png": "static/media/steves.e46ceab6.png",
+  "static\\media\\windhorse.png": "static/media/windhorse.493ec4c7.png"
 }
