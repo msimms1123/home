@@ -1,10 +1,12 @@
 {
-  "main.css": "static/css/main.33d2741c.css",
-  "main.css.map": "static/css/main.33d2741c.css.map",
-  "main.js": "static/js/main.4b01a3f1.js",
-  "main.js.map": "static/js/main.4b01a3f1.js.map",
+  "main.css": "static/css/main.57483ed8.css",
+  "main.css.map": "static/css/main.57483ed8.css.map",
+  "main.js": "static/js/main.e76a017b.js",
+  "main.js.map": "static/js/main.e76a017b.js.map",
   "static\\media\\about.png": "static/media/about.3128138d.png",
+  "static\\media\\checkersgif.gif": "static/media/checkersgif.64224c52.gif",
   "static\\media\\logo.png": "static/media/logo.7888dc1f.png",
+  "static\\media\\mapperCollage.png": "static/media/mapperCollage.f350dee0.png",
   "static\\media\\mecirc.png": "static/media/mecirc.99856bb7.png",
   "static\\media\\pic1.png": "static/media/pic1.64bb3baa.png",
   "static\\media\\pic2.png": "static/media/pic2.81ac5e0e.png",
@@ -17,5 +19,5 @@
   "static\\media\\slick.ttf": "static/media/slick.d41f55a7.ttf",
   "static\\media\\slick.woff": "static/media/slick.b7c9e1e4.woff",
   "static\\media\\steves.png": "static/media/steves.9b279dd2.png",
-  "static\\media\\windhorse.png": "static/media/windhorse.493ec4c7.png"
+  "static\\media\\windhorse.png": "static/media/windhorse.382a0cd3.png"
 }
